@@ -1,0 +1,30 @@
+[{
+      "id": 11,
+      "title": "",
+      "description": "",
+      "image": "http://cdn.touropia.com/gfx/d/tourist-attractions-in-mexico-city/catedral_metropolitana.jpg"
+    },
+    {
+        "id": 12,
+        "title": "Cenote de Dos Ojos",
+        "description": "Just outside of Tulum is Cenote Dos Ojos, one of the country’s largest underwater cave systems. The name means the cavern of two eyes, referring to the two sinkholes connected by a long passageway. The water in the caverns is filtered through limestone, making it exceptionally clear. As a result, Cenote Dos Ojos is wildly popular with both snorkelers and more serious scuba divers, some of whom head deep into the underwater cavern.",
+        "image": "http://cdn.touropia.com/gfx/d/tourist-attractions-in-mexico/cenote_dos_ojos.jpg"
+      } ,
+      {
+        "id": 13,
+        "title": "Acapulco Cliff Divers",
+        "description": "Acapulco is the original Mexican resort town which came into prominence by the 1950s as a getaway for Hollywood stars and millionaires. No visit to Acapulco is complete without watching the cliff divers perform their impressive jumps into ocean. They have been doing it since the 1930s, although today the divers are professionals. You can see the dives from a small platform by the cliff for a small entrance fee, or eat at the La Perla restaurant which offers a good view of the divers.",
+        "image": "http://cdn.touropia.com/gfx/d/tourist-attractions-in-mexico/cenote_dos_ojos.jpg"
+      },
+      {
+        "id": 14,
+        "title": "",
+        "description": "",
+        "image": "http://cdn.touropia.com/gfx/d/tourist-attractions-in-mexico/santa_prisca_church.jpg"
+      },
+      {
+        "id": 15,
+        "title": "Isla Mujeres",
+        "description": "Surrounded by the blue waters of the Caribbean Sea, just eight miles from Cancun, is Isla Mujeres. This island is a hotspot today, but it also has significance for the region’s cultural heritage. Isla Mujeres, which translates to the island of women, was sacred to the Mayan goddess of childbirth. Today, travelers arrive by ferry from Cancun to relax on the scenic beaches, visit the local turtle farm, scuba dive or snorkel in the clear waters or just relax away from the Cancun beach crowds.",
+        "image": "http://cdn.touropia.com/gfx/d/day-trips-from-cancun/isla_mujeres.jpg"
+      }]

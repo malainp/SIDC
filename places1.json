@@ -1,0 +1,38 @@
+[
+    {
+      "id": 0,
+      "title": "Cristo de las Notas",
+      "description": "Cristo de las Noas, with a height of 21.80 m, is the third tallest statue of Christ in Latin America, only smaller than the statue of Christ The Redeemer in Brazil and Cristo de la Concordia in Cochabamba, Bolivia. Situated on the top of a hill, this image of Jesus with extended arms symbolises protection for the inhabitants of Torreon. The hilltop has a Catholic church and offers a view of the entire city.",
+      "image": "https://media22.elsiglodetorreon.com.mx/i/2015/10/759717.jpeg"
+    },
+    {
+      "id": 1,
+      "title": "El canal de la perla",
+      "description": "The \"Canal de la Perla\" (the Pearl Watercourse), an underground watercourse built in the 19th century to drive the Nazas' river water to the fields near the city, was re-discovered in 2003 and re-opened in 2014. It now passes under the oldest part of the city and it can be visited and walked through. It is also used for cultural and artistic exhibitions.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Canal_de_la_Perla_Torreon_Coah.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Ojuela",
+      "description": "Ojuela was a small mining settlement located northwest of the city of Torreón, Coahuila in northern Mexico. The settlement is now well known as a ghost town as a result of the ore being exhausted.\nOjuela was established after the discovery of abandoned gold and silver mines in the area in 1598. The Ojuela Mine produced a large quantity of mineral during the last part of the 19th century. With the advent of the railroad, all the extracted ore were transported away from the mine by train and processed in the nearby town of Mapimí, Durango.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Canal_de_la_Perla_Torreon_Coah.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Bilbao Dunes",
+      "description": "The Bilbao dunes are ubicated in the Bilbao Locality at Viesca, Coahuila at 65 km from Torreón. The Dunes extension is about 10 square kilometers.\nIs a fine sand desert product of erosion of the nature elements throug the time.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Dunas_de_Bilbao_30.jpg/1280px-Dunas_de_Bilbao_30.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Cueva del tabaco",
+      "description": "La cueva del tabaco is located in the Gatuño ejido, at Matamoros, Coahuila. The cave got its name for the wild tobacco which used to grow in the zone. In this cave Benito Juárez helped by the brothers Vicente and Timoteo Ramirez hid and protected the Historic National Archive during the french invasion in México.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Dunas_de_Bilbao_30.jpg/1280px-Dunas_de_Bilbao_30.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Santo Madero",
+      "description": "Santo Madero is a little church at the top of a hill wich provides a beautiful view of the city and the desert in Parras de la Fuente, Coahuila. The hill is an ancient vulcan now extinct and inactive.\nThere's a leyend about this church is dedicated to the young single womens in help they find true love.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/27/Santo_Madero%2C_Parras_de_la_Fuente%2C_Coah.jpg"
+    }
+]
