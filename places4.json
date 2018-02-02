@@ -1,30 +1,30 @@
 [{
-        "id": 16,
-        "title": "El Tajin",
-        "description": "El Tajín was an important gulf coast city, founded by the Classic Veracruz culture. Most of the buildings at the site were constructed between 600 – 900 AD. Surrounded by the green jungle, these ruins are believed to have been the political and administrative center of the entire civilization. Today, visitors can see more than 150 identified buildings, although just a dozen are restored and open to the public at any given time. Of note is the Pyramid of Niches, the most impressive structure at the site.",
-        "image": "http://cdn.touropia.com/gfx/d/step-pyramids-of-the-world/el_tajin.jpg"
-      },
-      {
-        "id": 17,
-        "title": "Uxmal",
-        "description": "The ancient Mayan city of Uxmal is one of the most historically and culturally significant attractions in Mexico. Roughly 55 km (35 miles) south of Merida in Yucatan, the city was constructed primarily in the ninth century. Uxmal was once the capital of the region, and it is a prime example of Puuc architecture. Various stone levels, along with elaborate stonework, gives the pyramid structures a grand appearance. Not to be missed is the Magician’s Pyramid, the tallest of the pyramids at Uxmal.",
-        "image": "http://cdn.touropia.com/gfx/d/step-pyramids-of-the-world/uxmal.jpg"
-      },
-      {
-        "id": 18,
-        "title": "Palenque",
-        "description": "Palenque is an archaeological site that was located on the western edge of the Maya empire in the present-day state of Chiapas, Mexico. Palenque is much smaller than some of its Mayan neighbor cities, but it contains some of the finest architecture and sculptures the Maya ever produced. Most structures in Palenque date from about 600 AD to 800 AD including the Temple of Inscriptions, the only Mesoamerican pyramid built as a funerary monument.",
-        "image": "http://cdn.touropia.com/gfx/d/step-pyramids-of-the-world/palenque.jpg"
-      },
-      {
-        "id": 19,
-        "title": "Tulum",
-        "description": "Tulum is situated on the east coast of the Yucatán Peninsula. It once served as the major port of the Mayan city of Coba. Tulum was built around 1200 AD when the Mayan civilization was already in decline and therefore lacks the elegance of some other famous sites. The tropical beach backdrop however makes this a stunning top attraction which should not be missed. Accommodation can range from simple cabanas to 5 star luxury resorts.",
-        "image": "http://cdn.touropia.com/gfx/d/awesome-beaches-around-the-world/tulum.jpg"
-      },
-      {
-        "id": 20,
-        "title": "Chichen Itza",
-        "description": "Chichen Itza is the largest of the Maya cities in the Yucatan Peninsula and one of Mexico’s most visited tourist destinations. The most famous landmark of Chichen Itza is the temple-pyramid of El Castillo. The design of the temple has special astronomical significance. Each face of the pyramid has a stairway with 91 steps, which together with the shared step at the top, add up to 365, the number of days in a year. Other highlights of Chichen Itza include the Great Ballcourt and El Caracol, a circular temple which served as an astronomical observatory.",
-        "image": "http://cdn.touropia.com/gfx/d/step-pyramids-of-the-world/chichen_itza.jpg"
-      }]
+  "id": 16,
+  "title": "El Tajin",
+  "description": "El Tajín was an important gulf coast city, founded by the Classic Veracruz culture. Most of the buildings at the site were constructed between 600 – 900 AD. Surrounded by the green jungle, these ruins are believed to have been the political and administrative center of the entire civilization. Today, visitors can see more than 150 identified buildings, although just a dozen are restored and open to the public at any given time. Of note is the Pyramid of Niches, the most impressive structure at the site.",
+  "image": "http://cdn.touropia.com/gfx/d/step-pyramids-of-the-world/el_tajin.jpg"
+},
+{
+  "id": 17,
+  "title": "Uxmal",
+  "description": "The ancient Mayan city of Uxmal is one of the most historically and culturally significant attractions in Mexico. Roughly 55 km (35 miles) south of Merida in Yucatan, the city was constructed primarily in the ninth century. Uxmal was once the capital of the region, and it is a prime example of Puuc architecture. Various stone levels, along with elaborate stonework, gives the pyramid structures a grand appearance. Not to be missed is the Magician’s Pyramid, the tallest of the pyramids at Uxmal.",
+  "image": "http://cdn.touropia.com/gfx/d/step-pyramids-of-the-world/uxmal.jpg"
+},
+{
+  "id": 18,
+  "title": "Palenque",
+  "description": "Palenque is an archaeological site that was located on the western edge of the Maya empire in the present-day state of Chiapas, Mexico. Palenque is much smaller than some of its Mayan neighbor cities, but it contains some of the finest architecture and sculptures the Maya ever produced. Most structures in Palenque date from about 600 AD to 800 AD including the Temple of Inscriptions, the only Mesoamerican pyramid built as a funerary monument.",
+  "image": "http://cdn.touropia.com/gfx/d/step-pyramids-of-the-world/palenque.jpg"
+},
+{
+  "id": 19,
+  "title": "Tulum",
+  "description": "Tulum is situated on the east coast of the Yucatán Peninsula. It once served as the major port of the Mayan city of Coba. Tulum was built around 1200 AD when the Mayan civilization was already in decline and therefore lacks the elegance of some other famous sites. The tropical beach backdrop however makes this a stunning top attraction which should not be missed. Accommodation can range from simple cabanas to 5 star luxury resorts.",
+  "image": "http://cdn.touropia.com/gfx/d/awesome-beaches-around-the-world/tulum.jpg"
+},
+{
+  "id": 20,
+  "title": "Chichen Itza",
+  "description": "Chichen Itza is the largest of the Maya cities in the Yucatan Peninsula and one of Mexico’s most visited tourist destinations. The most famous landmark of Chichen Itza is the temple-pyramid of El Castillo. The design of the temple has special astronomical significance. Each face of the pyramid has a stairway with 91 steps, which together with the shared step at the top, add up to 365, the number of days in a year. Other highlights of Chichen Itza include the Great Ballcourt and El Caracol, a circular temple which served as an astronomical observatory.",
+  "image": "http://cdn.touropia.com/gfx/d/step-pyramids-of-the-world/chichen_itza.jpg"
+}]

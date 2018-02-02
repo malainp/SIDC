@@ -15,7 +15,7 @@
       "id": 2,
       "title": "Ojuela",
       "description": "Ojuela was a small mining settlement located northwest of the city of Torreón, Coahuila in northern Mexico. The settlement is now well known as a ghost town as a result of the ore being exhausted.\nOjuela was established after the discovery of abandoned gold and silver mines in the area in 1598. The Ojuela Mine produced a large quantity of mineral during the last part of the 19th century. With the advent of the railroad, all the extracted ore were transported away from the mine by train and processed in the nearby town of Mapimí, Durango.",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Canal_de_la_Perla_Torreon_Coah.jpg"
+      "image": "http://www.milenio.com/region/Puente-Ojuela-metros-centimetros-ancho_MILIMA20150413_0203_3.jpg"
     },
     {
       "id": 3,
@@ -27,7 +27,7 @@
       "id": 4,
       "title": "Cueva del tabaco",
       "description": "La cueva del tabaco is located in the Gatuño ejido, at Matamoros, Coahuila. The cave got its name for the wild tobacco which used to grow in the zone. In this cave Benito Juárez helped by the brothers Vicente and Timoteo Ramirez hid and protected the Historic National Archive during the french invasion in México.",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Dunas_de_Bilbao_30.jpg/1280px-Dunas_de_Bilbao_30.jpg"
+      "image": "http://photos.wikimapia.org/p/00/02/06/55/66_big.jpg"
     },
     {
       "id": 5,
@@ -60,31 +60,31 @@
       "image": "http://cdn.touropia.com/gfx/d/canyons-of-the-world/copper_canyon.jpg?v=1"
     },
     {
-      "id": 11,
+      "id": 10,
       "title": "Teotihuacan",
       "description": "In the 2nd century BC a new civilization arose in the valley of Mexico. This civilization built the flourishing metropolis of Teotihuacán and it’s huge pyramids. The Pyramid of the Sun was built around 100 AD and is the largest pyramid in Teotihuacán and all of Mexico. The construction of the smaller Pyramid of the Moon started a century later and was finished in 450 AD. Seven centuries after the demise of the Teotihuacán empire the pyramids were honored and utilized by the Aztecs and became a place of pilgrimage. Mesoamerica’s greatest city is just 50km northeast of Mexico City and can be reached by bus or taxi.",
       "image": "http://cdn.touropia.com/gfx/d/step-pyramids-of-the-world/teotihuacan.jpg?v=cfd59461e5840908303d5cc015d7abd2"
     },
     {
-      "id": 12,
+      "id": 11,
       "title": "",
       "description": "",
       "image": "http://cdn.touropia.com/gfx/d/tourist-attractions-in-mexico-city/catedral_metropolitana.jpg"
     },
     {
-        "id": 13,
+        "id": 12,
         "title": "Cenote de Dos Ojos",
         "description": "Just outside of Tulum is Cenote Dos Ojos, one of the country’s largest underwater cave systems. The name means the cavern of two eyes, referring to the two sinkholes connected by a long passageway. The water in the caverns is filtered through limestone, making it exceptionally clear. As a result, Cenote Dos Ojos is wildly popular with both snorkelers and more serious scuba divers, some of whom head deep into the underwater cavern.",
         "image": "http://cdn.touropia.com/gfx/d/tourist-attractions-in-mexico/cenote_dos_ojos.jpg"
       } ,
       {
-        "id": 14,
+        "id": 13,
         "title": "Acapulco Cliff Divers",
         "description": "Acapulco is the original Mexican resort town which came into prominence by the 1950s as a getaway for Hollywood stars and millionaires. No visit to Acapulco is complete without watching the cliff divers perform their impressive jumps into ocean. They have been doing it since the 1930s, although today the divers are professionals. You can see the dives from a small platform by the cliff for a small entrance fee, or eat at the La Perla restaurant which offers a good view of the divers.",
-        "image": "http://cdn.touropia.com/gfx/d/tourist-attractions-in-mexico/cenote_dos_ojos.jpg"
+        "image": "https://vanguardia.com.mx/sites/default/files/ollyn-la-quebrada-acapulco.jpg"
       },
       {
-        "id": 15,
+        "id": 14,
         "title": "",
         "description": "",
         "image": "http://cdn.touropia.com/gfx/d/tourist-attractions-in-mexico/santa_prisca_church.jpg"
